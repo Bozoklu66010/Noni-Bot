@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 
-token = "ODMzMDI3NDIzMDkyMDgwNjQx.YHsXPg.3gTOMbgdUgvOfhiLPmR6sFyhtYc"
+token = "ODM1OTE4Nzg3NjgwNzk2NzAy.YIWcCQ.LdqZgYl5a8S059GOVbqr9tWsBHI"
 
 
 SPAM_CHANNEL =  ["https://discord.gg/CJGDSREU runs you" , "Get ran" , "https://discord.gg/CJGDSREU" , "oops Beamed","https://discord.gg/CJGDSREU Beamed You","Shoulda Listened","Get beamed clowns","Beamed by https://discord.gg/CJGDSREU","oops got nuked","I run you","beamed by https://discord.gg/CJGDSREU","I run you","kinda got beamed by https://discord.gg/CJGDSREU"]
